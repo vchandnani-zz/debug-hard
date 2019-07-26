@@ -22,7 +22,11 @@ In this talk, we'll take a close look at how Ruby's String library 'reverse' met
 
 ## Nokia Bell Labs 2019
 
-[Presentation](../nokia-bell-labs/2019-05-debug-hard.pdf)
+[Presentation](./nokia-bell-labs/2019-05-debug-hard.pdf)
+
+## Ruby Conf Kenya 2019
+
+[Presentation](./ruby-conf-kenya/2019-07-debug-hard.pdf)
 
 ## Building Ruby from Source
 
