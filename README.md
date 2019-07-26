@@ -10,15 +10,15 @@ VirtualBox 5.2.16
 
 GNU gdb 8.1.0 (Ubuntu)
 
-## NYC Ruby Meetup Talk Proposal
+## Talk Proposal
 
-At this time, the Ruby String library 'reverse' method is fairly stable. However, what if the underlying C implementation had a bug? What if it produced unexpected results with certain types of inputs? e.g. strings with unicode characters. How would you catch and fix such a bug? How would you explain the unexpected results?
+What if the Ruby String library 'reverse' method or its underlying C implementation had a bug? What if it produced unexpected results with certain types of inputs? e.g. strings with unicode characters. How would you catch and fix such a bug? How would you explain the unexpected results?
 
 In this talk, we'll take a close look at how Ruby's String library 'reverse' method works. In order to catch a potential underlying bug in this method, we need to understand its implementation. Where exactly is the source code? Does it have adequate unit tests? Put on your debugger hats and join me explore some powerful techniques to isolate and fix such bugs. This talk will add value to your debugging tool belt and improve your confidence in finding/fixing problems that lay underneath the current (Ruby) application programming language.
 
-## NYC Ruby Meetup Talk Materials
+## NYC Ruby Meetup 2019
 
-[Presentation](./2019-04-nyc-rb-debug-hard.pdf)
+[Presentation](./nyc-rb/2019-04-debug-hard.pdf)
 
 ## Building Ruby from Source
 
