@@ -20,6 +20,10 @@ In this talk, we'll take a close look at how Ruby's String library 'reverse' met
 
 [Presentation](./nyc-rb/2019-04-debug-hard.pdf)
 
+## Nokia Bell Labs 2019
+
+[Presentation](../nokia-bell-labs/2019-05-debug-hard.pdf)
+
 ## Building Ruby from Source
 
 ### Ruby Source
