@@ -32,6 +32,8 @@ In this talk, we'll take a close look at how Ruby's String library 'reverse' met
 
 [Presentation](./ruby-conf-thailand/2019-09-debug-hard.pdf)
 
+[YouTube Video](https://www.youtube.com/watch?v=C_LHpELWK4g)
+
 ## Building Ruby from Source
 
 ### Ruby Source
